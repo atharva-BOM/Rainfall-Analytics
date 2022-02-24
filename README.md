@@ -1,1 +1,1 @@
-# Rainfall-Analytics
+This project is based on C++ and uses arrays to get various insights out of the rainfall in a year. The only input required is the amount of rainfall each month and you will ge t the insights like average, maximum, minimum etc.
